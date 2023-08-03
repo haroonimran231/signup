@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1013087101088",
+    "project_id": "dumy-c3ac7",
+    "storage_bucket": "dumy-c3ac7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013087101088:android:69a3f4702cd30b1c7be9c5",
+        "android_client_info": {
+          "package_name": "com.haroon.signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013087101088-bdt4qgl17c0bcan9bsbak60k9hivifjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM1iaHX-BrRUQCjnUm81ykgBDk04PHzSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013087101088-bdt4qgl17c0bcan9bsbak60k9hivifjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
